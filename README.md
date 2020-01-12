@@ -2,4 +2,4 @@
 
 Instructions on how to use Git
 
-some updates on a branch
+This is bound to cause trouble
